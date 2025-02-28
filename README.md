@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Juan David Meneses Galeano  
 
-### 🚀 Backend Developer | Python | Integraciones | DevOps  
+### 🚀 Backend Developer | Python | Integraciones
 
 Soy un **Desarrollador Backend** especializado en **Python** con experiencia en **arquitectura de software, microservicios, APIs e integraciones en la nube**. Me apasiona crear sistemas eficientes, escalables y bien estructurados, aplicando **Clean Code, Clean Architecture y pruebas unitarias**.  
 
