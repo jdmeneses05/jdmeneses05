@@ -10,8 +10,8 @@ Soy un **Desarrollador Backend** especializado en **Python** con experiencia en 
 
 ### 🔹 **Backend**  
 - **Python** (FastAPI, Flask, Django)  
-- **Golang** 
-- **Node.js** (JavaScript)  
+- **Golang** (Fundamentos)
+- **JavaScript**
 - **PHP** (Laravel, desarrollo de APIs)  
 
 ### 🔹 **Arquitectura y Buenas Prácticas**  
@@ -26,7 +26,8 @@ Soy un **Desarrollador Backend** especializado en **Python** con experiencia en 
 ### 🔹 **Infraestructura y DevOps**  
 - Docker, Docker Compose  
 - CI/CD (Azure DevOps, GitHub Actions)  
-- AWS (Lambda, S3, RDS, EC2), Azure  
+- AWS (Lambda, S3, RDS, EC2)
+- Azure 
 
 ### 🔹 **Integraciones y APIs**  
 - REST, WebSockets, GraphQL  
