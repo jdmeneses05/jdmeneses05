@@ -1,4 +1,6 @@
 👋 ¡Hola! Soy Juan David Meneses Galeano
+
+
 🚀 Desarrollador Integrador | Flutter (Móvil, Web, Desktop) | Python | Cloud
 
 Soy un Desarrollador Integrador con experiencia en el desarrollo de aplicaciones multiplataforma con Flutter (móvil, web y escritorio), junto con backend en Python e integración en entornos cloud (AWS y Azure).
@@ -6,6 +8,7 @@ Soy un Desarrollador Integrador con experiencia en el desarrollo de aplicaciones
 Me enfoco en crear soluciones robustas, escalables y seguras, aplicando Clean Code, Clean Architecture, principios SOLID y pruebas automatizadas.
 
 🛠️ Tecnologías y Herramientas
+
 🔹 Flutter (Móvil, Web y Desktop)
 
 Arquitecturas: BLoC, Riverpod, Provider, Clean Architecture
