@@ -1,50 +1,56 @@
-# 👋 ¡Hola! Soy Juan David Meneses Galeano  
+👋 ¡Hola! Soy Juan David Meneses Galeano
+🚀 Desarrollador Integrador | Flutter (Móvil, Web, Desktop) | Python | Cloud
 
-### 🚀 Backend Developer | Python | Integraciones
+Soy un Desarrollador Integrador con experiencia en el desarrollo de aplicaciones multiplataforma con Flutter (móvil, web y escritorio), junto con backend en Python e integración en entornos cloud (AWS y Azure).
 
-Soy un **Desarrollador Backend** especializado en **Python** con experiencia en **arquitectura de software, microservicios, APIs e integraciones en la nube**. Me apasiona crear sistemas eficientes, escalables y bien estructurados, aplicando **Clean Code, Clean Architecture y pruebas unitarias**.  
+Me enfoco en crear soluciones robustas, escalables y seguras, aplicando Clean Code, Clean Architecture, principios SOLID y pruebas automatizadas.
 
----
+🛠️ Tecnologías y Herramientas
+🔹 Flutter (Móvil, Web y Desktop)
 
-## 🛠️ Tecnologías y Herramientas  
+Arquitecturas: BLoC, Riverpod, Provider, Clean Architecture
 
-### 🔹 **Backend**  
-- **Python** (FastAPI, Flask, Django)  
-- **Golang** (Fundamentos)
-- **JavaScript**
-- **PHP** (Laravel, desarrollo de APIs)  
+Integración con APIs REST/GraphQL, autenticación JWT/OAuth2
 
-### 🔹 **Arquitectura y Buenas Prácticas**  
-- Clean Code, Clean Architecture, SOLID, DDD  
-- Diseño y optimización de ORMs  
-- Pruebas unitarias e integración  
+Diseño UI responsivo y animaciones personalizadas
 
-### 🔹 **Bases de Datos**  
-- PostgreSQL, Firebase, SQL y NoSQL  
-- Optimización de consultas y performance  
+Apps multiplataforma con un solo código base
 
-### 🔹 **Infraestructura y DevOps**  
-- Docker, Docker Compose  
-- CI/CD (Azure DevOps, GitHub Actions)  
-- AWS (Lambda, S3, RDS, EC2)
-- Azure 
+🔹 Backend & APIs
 
-### 🔹 **Integraciones y APIs**  
-- REST, WebSockets, GraphQL  
-- ONVIF para video streaming  
+Python (FastAPI, Flask, Django)
 
-### 🔹 **Procesamiento de Video e IoT**  
-- YOLO, OpenCV  
-- Procesamiento de streams RTSP/MJPEG  
-- Desarrollo de sistemas IoT con machine learning  
+Golang, PHP (Laravel)
 
----
+Microservicios, REST, GraphQL, WebSockets
+
+Procesamiento de video en tiempo real (RTSP/MJPEG, ONVIF)
+
+🔹 Cloud & DevOps
+
+AWS (Lambda, API Gateway, Cognito, S3, RDS, EC2, CloudWatch)
+
+Azure (App Services, Azure DevOps CI/CD)
+
+Docker, Docker Compose, GitHub Actions
+
+Monitoreo y despliegues escalables
+
+🔹 Bases de Datos
+
+SQL (PostgreSQL, MySQL)
+
+NoSQL (MongoDB, Firebase)
+
+🔹 Procesamiento de Video e IoT
+
+YOLO + OpenCV para detección de objetos
+
+Sistemas IoT con machine learning
 
 
-## 📬 Contacto  
+📬 Contacto
 
-💼 [LinkedIn](https://www.linkedin.com/in/juan-david-meneses-galeano-271066192/)  
-📧 [Email](mailto:juandavidmg64@gmail.com)  
----
+💼 LinkedIn: https://www.linkedin.com/in/juan-david-meneses-galeano-271066192/
 
-⭐ **¡Gracias por visitar mi perfil!** Si te interesa colaborar o tienes alguna idea, no dudes en escribirme. 🚀  
+📧 Email: juandavidmg64@gmail.com
